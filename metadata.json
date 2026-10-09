@@ -1,0 +1,6 @@
+{
+  "name": "Car Servicing & Garage",
+  "description": "A high-end, professional car servicing, MOT, and garage booking platform featuring an interactive UK license plate vehicle lookup, a live status booking tracker with active simulator, detailed multi-point comparative service checklists, and a smart AI fault diagnostics panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
